@@ -1,0 +1,6 @@
+[submodule "battery"]
+	path = battery
+	url = https://github.com/mksglu/i3.git
+[submodule "i3-battery"]
+	path = i3-battery
+	url = https://github.com/mksglu/i3.git
